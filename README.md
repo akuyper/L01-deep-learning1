@@ -23,12 +23,13 @@ Please complete the following exercises. The document should be neatly formatted
 #### Exercise 1
 Recreate the example provided in Section 2.1 (pg 25 - 29). See the [notebook](https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/2.1-a-first-look-at-a-neural-network.nb.html) provided by the author.
 
+Alternatively, students are welcome to work through the example provided on the [Keras in RStudio website](https://keras.rstudio.com/).
+
 <br><br>
 
 #### Exercise 2
 Recreate the example provided in Section 3.4 (pg 59 - 69). See the [notebook](https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/3.4-classifying-movie-reviews.nb.html) provided by the author.
 
-Alternatively, students are welcome to work through the example provided on the (Keras in RStudio website)[https://keras.rstudio.com/].
 
 <br><br>
 
