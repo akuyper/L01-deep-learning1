@@ -1,6 +1,9 @@
-# Deep Learning Lab I (L10)
-
-Download the repository as a zip folder and begin an R project for this lab. The zip folder will contain instructions (repeated below) and a template to get an Rmd file started.
+---
+title: "Deep Learning Lab I (L10)"
+author: "Data Science III (STAT 301-3)"
+date: "April 30th, 2018"
+output: html_document
+---
 
 # Overview
 
@@ -18,6 +21,12 @@ All datasets are supplied by the `keras` package --- `mnist`, `imdb`, `rueters`,
 
 Please complete the following exercises. The document should be neatly formatted. 
 
+#### Load Packages
+
+```{r, message=FALSE}
+# Loading package(s)
+
+```
 <br>
 
 #### Exercise 1
@@ -37,6 +46,5 @@ Recreate the example provided in Section 3.5 (pg 70 - 76). See the [notebook](ht
 
 #### Exercise 4
 Recreate the example provided in Section 3.6 (pg 76 - 83). See the [notebook](https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/3.6-predicting-house-prices.nb.html) provided by the author.
-
 
 
