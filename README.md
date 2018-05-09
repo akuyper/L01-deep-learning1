@@ -31,12 +31,12 @@ Recreate the example provided in Section 3.4 (pg 59 - 69). See the [notebook](ht
 <br><br>
 
 #### Exercise 3
-Recreate the example provided in Section 3.5 (pg 70 - 76). See the [notebook](https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/3.5-classifying-newswires.nb.html) provided by the author.
+Recreate the example provided in Section 3.5 (pg 70 - 76). See the [notebook](https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/3.5-classifying-newswires.nb.html" target"=_blank) provided by the author.
 
 <br><br>
 
 #### Exercise 4
-Recreate the example provided in Section 3.6 (pg 76 - 83). See the [notebook](https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/3.6-predicting-house-prices.nb.html){:target="_blank"} provided by the author.
+Recreate the example provided in Section 3.6 (pg 76 - 83). See the [notebook](https://jjallaire.github.io/deep-learning-with-r-notebooks/notebooks/3.6-predicting-house-prices.nb.html target="_blank") provided by the author.
 
 
 
